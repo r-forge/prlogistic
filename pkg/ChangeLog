@@ -1,0 +1,10 @@
+-------------------
+Version: 1.1
+Date: 2011-10-25
+
+	* Added 'NAMESPACE' and ChangeLog Files
+	* Replaced mean for colMeans() in pr.marginal()
+	* Modified vcov() structure for compatibility with S4 methods
+-------------------
+
+
